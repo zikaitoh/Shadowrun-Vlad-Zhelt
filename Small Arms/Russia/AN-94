@@ -1,0 +1,20 @@
+{
+  name : "AN-94",
+  category : "Assault Rifle", 
+  accuracy : 7, 
+  damageValue: 10, 
+  damageType : "P", 
+  armourPiercing : 2,
+  mode : "2 Burst/Full",
+  recoilCompensation : "2(3)",
+  ammo : 30, 
+  magazineType : "Clip", 
+  availability : 12, 
+  availClass: "Forbidden", 
+  price : 2500,
+  standardMods: [
+    "Folding Stock", 
+    "Gas Vent 2"
+    ], 
+  description: "This gun was developed in the early 1990s as a replacement for the venerable Kalashnikov rifle. However, adoption of the gun among Russian units were limited due to the high cost of production and complexity of the gun. It now sees more use among Corporate Security and experienced Shadowrunners for its high accuracy."
+}
